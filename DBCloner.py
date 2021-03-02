@@ -27,16 +27,6 @@ def Build():
     print ("Building ... -", end="\r")
     sleep(0.25)
 
-print ('''
-
-  / ____|_   _|   /\     
- | (___   | |    /  \    
-  \___ \  | |   / /\ \   
-  ____) |_| |_ / ____ \  
- |_____/|_____/_/    \_\ 
-                         
-''')
-
 print ('DB Cloning Script:')
 sleep (0.5)
 print ('REQUIRES PYMYSQL')
